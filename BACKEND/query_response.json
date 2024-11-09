@@ -1,0 +1,14 @@
+{
+    "sessionId": "672f82a8fa4e106eda36378f",
+    "messageId": "672f82b5fa4e106eda363792",
+    "answer": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimensity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+    "metrics": {
+        "inputTokens": 226,
+        "outputTokens": 68,
+        "totalTokens": 294,
+        "ragTimeSec": 13.02,
+        "fulfillmentTimeSec": 1.49,
+        "totalTimeSec": 14.51
+    },
+    "status": "completed"
+}

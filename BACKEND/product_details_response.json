@@ -1,0 +1,14 @@
+{
+    "sessionId": "672f82a8fa4e106eda36378f",
+    "messageId": "672f82c745323c74afe9d036",
+    "answer": "1. Seller: iQOO \n   - Price: \u20b929,999.00\n   - Link: [https:\/\/mshop.iqoo.com\/in\/product\/2048](https:\/\/mshop.iqoo.com\/in\/product\/2048)\n\n2. Seller: iQOO \n   - Price: \u20b919,999.00\n   - Link: [https:\/\/mshop.iqoo.com\/in\/product\/2048?from=Z9s%20Launch%20Today](https:\/\/mshop.iqoo.com\/in\/product\/2048?from=Z9s%20Launch%20Today)\n\n3. Seller: Price History\n   - Price: \u20b923,999.00\n   - Link: [https:\/\/pricehistory.app\/p\/iqoo-z9s-5g-onyx-green-12gb-ram-JVKerxSj](https:\/\/pricehistory.app\/p\/iqoo-z9s-5g-onyx-green-12gb-ram-JVKerxSj)",
+    "metrics": {
+        "inputTokens": 226,
+        "outputTokens": 213,
+        "totalTokens": 439,
+        "ragTimeSec": 24.78,
+        "fulfillmentTimeSec": 5.95,
+        "totalTimeSec": 30.73
+    },
+    "status": "completed"
+}
